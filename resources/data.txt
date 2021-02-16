@@ -1,0 +1,360 @@
+$All races, both sexes, all ages$
+... All causes|2,596,993|100.0|821.5
+Diseases of heart (I00-I09,I11,I13,I20-I51)|611,105|23.5|193.3
+Malignant neoplasms (C00-C97)|584,881|22.5|185.0
+Chronic lower respiratory diseases (J40-J47)|149,205|5.7|47.2
+Accidents (unintentional injuries) (V01-X59,Y85-Y86)|130,557|5.0|41.3
+Cerebrovascular diseases (I60-I69)|128,978|5.0|40.8
+Alzheimer's disease (G30)|84,767|3.3|26.8
+Diabetes mellitus (E10-E14)|75,578|2.9|23.9
+Influenza and pneumonia (J09-J18)|56,979|2.2|18.0
+Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)|47,112|1.8|14.9
+Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)|41,149|1.6|13.0
+Septicemia (A40-A41)|38,156|1.5|12.1
+Chronic liver disease and cirrhosis (K70,K73-K74)|36,427|1.4|11.5
+Essential hypertension and hypertensive renal disease (I10,I12,I15)|30,770|1.2|9.7
+Parkinson's disease (G20-G21)|25,196|1.0|8.0
+Pneumonitis due to solids and liquids (J69)|18,579|0.7|5.9
+... All other causes (Residual)|537,554|20.7|170.0
+$All races, both sexes, 1-4 years$
+... All causes|4,068|100.0|25.5
+Accidents (unintentional injuries) (V01-X59,Y85-Y86)|1,316|32.4|8.3
+Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)|476|11.7|3.0
+Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)|337|8.3|2.1
+Malignant neoplasms (C00-C97)|328|8.1|2.1
+Diseases of heart (I00-I09,I11,I13,I20-I51)|169|4.2|1.1
+Influenza and pneumonia (J09-J18)|102|2.5|0.6
+Chronic lower respiratory diseases (J40-J47)|64|1.6|0.4
+Septicemia (A40-A41)|53|1.3|0.3
+In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48)|47|1.2|0.3
+Certain conditions originating in the perinatal period (P00-P96)|45|1.1|0.3
+Cerebrovascular diseases (I60-I69)|38|0.9|0.2
+Meningitis (G00,G03)|23|0.6|0.1
+Anemias (D50-D64)|20|0.5|0.1
+Complications of medical and surgical care (Y40-Y84,Y88)|15|0.4|*
+Acute bronchitis and bronchiolitis (J20-J21)|14|0.3|*
+... All other causes (Residual)|1,021|25.1|6.4
+$All races, both sexes, 5-14 years$
+... All causes|5,340|100.0|13.0
+Accidents (unintentional injuries) (V01-X59,Y85-Y86)|1,521|28.5|3.7
+Malignant neoplasms (C00-C97)|895|16.8|2.2
+Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)|395|7.4|1.0
+Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)|340|6.4|0.8
+Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)|277|5.2|0.7
+Diseases of heart (I00-I09,I11,I13,I20-I51)|173|3.2|0.4
+Chronic lower respiratory diseases (J40-J47)|155|2.9|0.4
+Influenza and pneumonia (J09-J18)|128|2.4|0.3
+Cerebrovascular diseases (I60-I69)|89|1.7|0.2
+In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48)|65|1.2|0.2
+Septicemia (A40-A41)|55|1.0|0.1
+Certain conditions originating in the perinatal period (P00-P96)|33|0.6|0.1
+Complications of medical and surgical care (Y40-Y84,Y88)|26|0.5|0.1
+Diabetes mellitus (E10-E14)|24|0.4|0.1
+Anemias (D50-D64)|17|0.3|*
+... All other causes (Residual)|1,147|21.5|2.8
+$All races, both sexes, 15-24 years$
+... All causes|28,486|100.0|64.8
+Accidents (unintentional injuries) (V01-X59,Y85-Y86)|11,619|40.8|26.4
+Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)|4,878|17.1|11.1
+Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)|4,329|15.2|9.8
+Malignant neoplasms (C00-C97)|1,496|5.3|3.4
+Diseases of heart (I00-I09,I11,I13,I20-I51)|941|3.3|2.1
+Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)|362|1.3|0.8
+Influenza and pneumonia (J09-J18)|197|0.7|0.4
+Diabetes mellitus (E10-E14)|193|0.7|0.4
+Pregnancy, childbirth and the puerperium (O00-O99)|178|0.6|0.4
+Chronic lower respiratory diseases (J40-J47)|155|0.5|0.4
+Cerebrovascular diseases (I60-I69)|153|0.5|0.3
+Septicemia (A40-A41)|138|0.5|0.3
+Human immunodeficiency virus (HIV) disease (B20-B24)|109|0.4|0.2
+Legal intervention (Y35,Y89.0)|99|0.3|0.2
+Anemias (D50-D64)|93|0.3|0.2
+... All other causes (Residual)|3,546|12.4|8.1
+$All races, both sexes, 25-34 years$
+... All causes|45,463|100.0|106.1
+Accidents (unintentional injuries) (V01-X59,Y85-Y86)|16,209|35.7|37.8
+Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)|6,348|14.0|14.8
+Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)|4,236|9.3|9.9
+Malignant neoplasms (C00-C97)|3,673|8.1|8.6
+Diseases of heart (I00-I09,I11,I13,I20-I51)|3,258|7.2|7.6
+Diabetes mellitus (E10-E14)|684|1.5|1.6
+Chronic liver disease and cirrhosis (K70,K73-K74)|676|1.5|1.6
+Human immunodeficiency virus (HIV) disease (B20-B24)|631|1.4|1.5
+Cerebrovascular diseases (I60-I69)|508|1.1|1.2
+Influenza and pneumonia (J09-J18)|449|1.0|1.0
+Pregnancy, childbirth and the puerperium (O00-O99)|441|1.0|1.0
+Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)|423|0.9|1.0
+Septicemia (A40-A41)|333|0.7|0.8
+Chronic lower respiratory diseases (J40-J47)|291|0.6|0.7
+Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)|266|0.6|0.6
+... All other causes (Residual)|7,037|15.5|16.4
+$All races, both sexes, 35-44 years$
+... All causes|69,573|100.0|172.0
+Accidents (unintentional injuries) (V01-X59,Y85-Y86)|15,354|22.1|38.0
+Malignant neoplasms (C00-C97)|11,349|16.3|28.1
+Diseases of heart (I00-I09,I11,I13,I20-I51)|10,341|14.9|25.6
+Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)|6,551|9.4|16.2
+Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)|2,581|3.7|6.4
+Chronic liver disease and cirrhosis (K70,K73-K74)|2,491|3.6|6.2
+Diabetes mellitus (E10-E14)|1,952|2.8|4.8
+Cerebrovascular diseases (I60-I69)|1,687|2.4|4.2
+Human immunodeficiency virus (HIV) disease (B20-B24)|1,246|1.8|3.1
+Influenza and pneumonia (J09-J18)|881|1.3|2.2
+Septicemia (A40-A41)|820|1.2|2.0
+Chronic lower respiratory diseases (J40-J47)|760|1.1|1.9
+Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)|627|0.9|1.5
+Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)|441|0.6|1.1
+Essential hypertension and hypertensive renal disease (I10,I12,I15)|409|0.6|1.0
+... All other causes (Residual)|12,083|17.4|29.9
+$All races, both sexes, 45-54 years$
+... All causes|177,724|100.0|406.1
+Malignant neoplasms (C00-C97)|46,185|26.0|105.5
+Diseases of heart (I00-I09,I11,I13,I20-I51)|35,167|19.8|80.3
+Accidents (unintentional injuries) (V01-X59,Y85-Y86)|20,357|11.5|46.5
+Chronic liver disease and cirrhosis (K70,K73-K74)|8,785|4.9|20.1
+Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)|8,621|4.9|19.7
+Diabetes mellitus (E10-E14)|5,899|3.3|13.5
+Cerebrovascular diseases (I60-I69)|5,425|3.1|12.4
+Chronic lower respiratory diseases (J40-J47)|4,619|2.6|10.6
+Septicemia (A40-A41)|2,445|1.4|5.6
+Human immunodeficiency virus (HIV) disease (B20-B24)|2,378|1.3|5.4
+Influenza and pneumonia (J09-J18)|2,233|1.3|5.1
+Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)|2,025|1.1|4.6
+Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)|1,989|1.1|4.5
+Viral hepatitis (B15-B19)|1,911|1.1|4.4
+Essential hypertension and hypertensive renal disease (I10,I12,I15)|1,513|0.9|3.5
+... All other causes (Residual)|28,172|15.9|64.4
+$All races, both sexes, 55-64 years$
+... All causes|338,127|100.0|860.0
+Malignant neoplasms (C00-C97)|113,324|33.5|288.2
+Diseases of heart (I00-I09,I11,I13,I20-I51)|72,568|21.5|184.6
+Accidents (unintentional injuries) (V01-X59,Y85-Y86)|17,057|5.0|43.4
+Chronic lower respiratory diseases (J40-J47)|15,942|4.7|40.5
+Diabetes mellitus (E10-E14)|13,061|3.9|33.2
+Chronic liver disease and cirrhosis (K70,K73-K74)|11,951|3.5|30.4
+Cerebrovascular diseases (I60-I69)|11,364|3.4|28.9
+Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)|7,135|2.1|18.1
+Septicemia (A40-A41)|5,345|1.6|13.6
+Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)|4,947|1.5|12.6
+Influenza and pneumonia (J09-J18)|4,779|1.4|12.2
+Viral hepatitis (B15-B19)|3,936|1.2|10.0
+Essential hypertension and hypertensive renal disease (I10,I12,I15)|3,137|0.9|8.0
+Human immunodeficiency virus (HIV) disease (B20-B24)|1,820|0.5|4.6
+In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48)|1,502|0.4|3.8
+... All other causes (Residual)|50,259|14.9|127.8
+$All races, both sexes, 65-74 years$
+... All causes|454,429|100.0|1,802.1
+Malignant neoplasms (C00-C97)|155,552|34.2|616.9
+Diseases of heart (I00-I09,I11,I13,I20-I51)|98,432|21.7|390.3
+Chronic lower respiratory diseases (J40-J47)|35,603|7.8|141.2
+Cerebrovascular diseases (I60-I69)|18,722|4.1|74.2
+Diabetes mellitus (E10-E14)|17,279|3.8|68.5
+Accidents (unintentional injuries) (V01-X59,Y85-Y86)|10,967|2.4|43.5
+Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)|8,524|1.9|33.8
+Septicemia (A40-A41)|7,693|1.7|30.5
+Influenza and pneumonia (J09-J18)|7,441|1.6|29.5
+Chronic liver disease and cirrhosis (K70,K73-K74)|7,087|1.6|28.1
+Alzheimer's disease (G30)|4,561|1.0|18.1
+Essential hypertension and hypertensive renal disease (I10,I12,I15)|4,357|1.0|17.3
+Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)|3,794|0.8|15.0
+Parkinson's disease (G20-G21)|3,215|0.7|12.7
+In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48)|2,773|0.6|11.0
+... All other causes (Residual)|68,429|15.1|271.4
+$All races, both sexes, 75-84 years$
+... All causes|625,013|100.0|4,648.1
+Malignant neoplasms (C00-C97)|153,214|24.5|1,139.4
+Diseases of heart (I00-I09,I11,I13,I20-I51)|147,255|23.6|1,095.1
+Chronic lower respiratory diseases (J40-J47)|49,346|7.9|367.0
+Cerebrovascular diseases (I60-I69)|36,151|5.8|268.9
+Alzheimer's disease (G30)|23,073|3.7|171.6
+Diabetes mellitus (E10-E14)|19,587|3.1|145.7
+Accidents (unintentional injuries) (V01-X59,Y85-Y86)|14,438|2.3|107.4
+Influenza and pneumonia (J09-J18)|13,949|2.2|103.7
+Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)|13,317|2.1|99.0
+Parkinson's disease (G20-G21)|10,549|1.7|78.5
+Septicemia (A40-A41)|10,274|1.6|76.4
+Essential hypertension and hypertensive renal disease (I10,I12,I15)|7,216|1.2|53.7
+Pneumonitis due to solids and liquids (J69)|4,933|0.8|36.7
+In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48)|4,554|0.7|33.9
+Chronic liver disease and cirrhosis (K70,K73-K74)|4,014|0.6|29.9
+... All other causes (Residual)|113,143|18.1|841.4
+$All races, both sexes, 85 years and over$
+... All causes|825,198|100.0|13,660.4
+Diseases of heart (I00-I09,I11,I13,I20-I51)|242,469|29.4|4,013.9
+Malignant neoplasms (C00-C97)|98,792|12.0|1,635.4
+Alzheimer's disease (G30)|56,152|6.8|929.5
+Cerebrovascular diseases (I60-I69)|54,729|6.6|906.0
+Chronic lower respiratory diseases (J40-J47)|42,245|5.1|699.3
+Influenza and pneumonia (J09-J18)|26,641|3.2|441.0
+Accidents (unintentional injuries) (V01-X59,Y85-Y86)|20,537|2.5|340.0
+Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)|17,239|2.1|285.4
+Diabetes mellitus (E10-E14)|16,885|2.0|279.5
+Essential hypertension and hypertensive renal disease (I10,I12,I15)|13,991|1.7|231.6
+Septicemia (A40-A41)|10,848|1.3|179.6
+Parkinson's disease (G20-G21)|10,762|1.3|178.2
+Pneumonitis due to solids and liquids (J69)|9,218|1.1|152.6
+In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48)|5,106|0.6|84.5
+Atherosclerosis (I70)|3,803|0.5|63.0
+... All other causes (Residual)|195,781|23.7|3,241.0
+$All races, male, all ages$
+... All causes|1,306,034|100.0|839.1
+Diseases of heart (I00-I09,I11,I13,I20-I51)|321,347|24.6|206.5
+Malignant neoplasms (C00-C97)|307,559|23.5|197.6
+Accidents (unintentional injuries) (V01-X59,Y85-Y86)|81,916|6.3|52.6
+Chronic lower respiratory diseases (J40-J47)|70,317|5.4|45.2
+Cerebrovascular diseases (I60-I69)|53,691|4.1|34.5
+Diabetes mellitus (E10-E14)|39,841|3.1|25.6
+Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)|32,055|2.5|20.6
+Influenza and pneumonia (J09-J18)|26,804|2.1|17.2
+Alzheimer's disease (G30)|25,836|2.0|16.6
+Chronic liver disease and cirrhosis (K70,K73-K74)|23,709|1.8|15.2
+Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)|23,493|1.8|15.1
+Septicemia (A40-A41)|17,994|1.4|11.6
+Parkinson's disease (G20-G21)|15,088|1.2|9.7
+Essential hypertension and hypertensive renal disease (I10,I12,I15)|12,963|1.0|8.3
+Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)|12,726|1.0|8.2
+... All other causes (Residual)|240,695|18.4|154.6
+$All races, male, 1-4 years$
+... All causes|2,323|100.0|28.6
+Accidents (unintentional injuries) (V01-X59,Y85-Y86)|831|35.8|10.2
+Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)|232|10.0|2.9
+Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)|184|7.9|2.3
+Malignant neoplasms (C00-C97)|183|7.9|2.2
+Diseases of heart (I00-I09,I11,I13,I20-I51)|96|4.1|1.2
+Influenza and pneumonia (J09-J18)|53|2.3|0.7
+Chronic lower respiratory diseases (J40-J47)|38|1.6|0.5
+Septicemia (A40-A41)|32|1.4|0.4
+Certain conditions originating in the perinatal period (P00-P96)|29|1.2|0.4
+Cerebrovascular diseases (I60-I69)|22|0.9|0.3
+In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48)|19|0.8|*
+Meningitis (G00,G03)|13|0.6|*
+Anemias (D50-D64)|11|0.5|*
+Acute bronchitis and bronchiolitis (J20-J21)|7|0.3|*
+Complications of medical and surgical care (Y40-Y84,Y88)|7|0.3|*
+... All other causes (Residual)|566|24.4|7.0
+$All races, male, 5-14 years$
+... All causes|3,077|100.0|14.6
+Accidents (unintentional injuries) (V01-X59,Y85-Y86)|950|30.9|4.5
+Malignant neoplasms (C00-C97)|471|15.3|2.2
+Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)|252|8.2|1.2
+Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)|176|5.7|0.8
+Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)|168|5.5|0.8
+Chronic lower respiratory diseases (J40-J47)|100|3.2|0.5
+Diseases of heart (I00-I09,I11,I13,I20-I51)|93|3.0|0.4
+Influenza and pneumonia (J09-J18)|70|2.3|0.3
+Cerebrovascular diseases (I60-I69)|44|1.4|0.2
+In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48)|40|1.3|0.2
+Septicemia (A40-A41)|32|1.0|0.2
+Certain conditions originating in the perinatal period (P00-P96)|17|0.6|*
+Complications of medical and surgical care (Y40-Y84,Y88)|15|0.5|*
+Diabetes mellitus (E10-E14)|12|0.4|*
+Meningitis (G00,G03)|11|0.4|*
+... All other causes (Residual)|626|20.3|3.0
+$All races, male, 15-24 years$
+... All causes|20,864|100.0|92.6
+Accidents (unintentional injuries) (V01-X59,Y85-Y86)|8,545|41.0|37.9
+Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)|3,903|18.7|17.3
+Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)|3,765|18.0|16.7
+Malignant neoplasms (C00-C97)|859|4.1|3.8
+Diseases of heart (I00-I09,I11,I13,I20-I51)|628|3.0|2.8
+Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)|223|1.1|1.0
+Diabetes mellitus (E10-E14)|120|0.6|0.5
+Influenza and pneumonia (J09-J18)|114|0.5|0.5
+Chronic lower respiratory diseases (J40-J47)|101|0.5|0.4
+Legal intervention (Y35,Y89.0)|95|0.5|0.4
+Cerebrovascular diseases (I60-I69)|85|0.4|0.4
+Human immunodeficiency virus (HIV) disease (B20-B24)|81|0.4|0.4
+Septicemia (A40-A41)|74|0.4|0.3
+In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48)|57|0.3|0.3
+Anemias (D50-D64)|54|0.3|0.2
+... All other causes (Residual)|2,160|10.4|9.6
+$All races, male, 25-34 years$
+... All causes|31,462|100.0|145.4
+Accidents (unintentional injuries) (V01-X59,Y85-Y86)|12,025|38.2|55.6
+Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)|5,063|16.1|23.4
+Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)|3,555|11.3|16.4
+Diseases of heart (I00-I09,I11,I13,I20-I51)|2,214|7.0|10.2
+Malignant neoplasms (C00-C97)|1,857|5.9|8.6
+Human immunodeficiency virus (HIV) disease (B20-B24)|457|1.5|2.1
+Chronic liver disease and cirrhosis (K70,K73-K74)|435|1.4|2.0
+Diabetes mellitus (E10-E14)|403|1.3|1.9
+Cerebrovascular diseases (I60-I69)|279|0.9|1.3
+Influenza and pneumonia (J09-J18)|253|0.8|1.2
+Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)|240|0.8|1.1
+Septicemia (A40-A41)|178|0.6|0.8
+Chronic lower respiratory diseases (J40-J47)|160|0.5|0.7
+Legal intervention (Y35,Y89.0)|141|0.4|0.7
+Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)|140|0.4|0.6
+... All other causes (Residual)|4,062|12.9|18.8
+$All races, male, 35-44 years$
+... All causes|43,072|100.0|213.8
+Accidents (unintentional injuries) (V01-X59,Y85-Y86)|10,566|24.5|52.4
+Diseases of heart (I00-I09,I11,I13,I20-I51)|7,152|16.6|35.5
+Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)|5,003|11.6|24.8
+Malignant neoplasms (C00-C97)|4,827|11.2|24.0
+Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)|2,025|4.7|10.1
+Chronic liver disease and cirrhosis (K70,K73-K74)|1,620|3.8|8.0
+Diabetes mellitus (E10-E14)|1,211|2.8|6.0
+Cerebrovascular diseases (I60-I69)|938|2.2|4.7
+Human immunodeficiency virus (HIV) disease (B20-B24)|842|2.0|4.2
+Influenza and pneumonia (J09-J18)|464|1.1|2.3
+Septicemia (A40-A41)|397|0.9|2.0
+Chronic lower respiratory diseases (J40-J47)|365|0.8|1.8
+Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)|342|0.8|1.7
+Essential hypertension and hypertensive renal disease (I10,I12,I15)|264|0.6|1.3
+Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)|251|0.6|1.2
+... All other causes (Residual)|6,805|15.8|33.8
+$All races, male, 45-54 years$
+... All causes|107,997|100.0|500.7
+Diseases of heart (I00-I09,I11,I13,I20-I51)|24,830|23.0|115.1
+Malignant neoplasms (C00-C97)|22,966|21.3|106.5
+Accidents (unintentional injuries) (V01-X59,Y85-Y86)|13,591|12.6|63.0
+Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)|6,393|5.9|29.6
+Chronic liver disease and cirrhosis (K70,K73-K74)|5,858|5.4|27.2
+Diabetes mellitus (E10-E14)|3,633|3.4|16.8
+Cerebrovascular diseases (I60-I69)|3,067|2.8|14.2
+Chronic lower respiratory diseases (J40-J47)|2,142|2.0|9.9
+Human immunodeficiency virus (HIV) disease (B20-B24)|1,760|1.6|8.2
+Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)|1,479|1.4|6.9
+Viral hepatitis (B15-B19)|1,328|1.2|6.2
+Septicemia (A40-A41)|1,304|1.2|6.0
+Influenza and pneumonia (J09-J18)|1,277|1.2|5.9
+Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)|1,190|1.1|5.5
+Essential hypertension and hypertensive renal disease (I10,I12,I15)|990|0.9|4.6
+... All other causes (Residual)|16,189|15.0|75.1
+$All races, male, 55-64 years$
+... All causes|206,325|100.0|1,088.4
+Malignant neoplasms (C00-C97)|62,810|30.4|331.3
+Diseases of heart (I00-I09,I11,I13,I20-I51)|50,680|24.6|267.3
+Accidents (unintentional injuries) (V01-X59,Y85-Y86)|11,658|5.7|61.5
+Chronic liver disease and cirrhosis (K70,K73-K74)|8,485|4.1|44.8
+Chronic lower respiratory diseases (J40-J47)|8,287|4.0|43.7
+Diabetes mellitus (E10-E14)|7,933|3.8|41.8
+Cerebrovascular diseases (I60-I69)|6,651|3.2|35.1
+Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)|5,373|2.6|28.3
+Septicemia (A40-A41)|2,892|1.4|15.3
+Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)|2,800|1.4|14.8
+Viral hepatitis (B15-B19)|2,792|1.4|14.7
+Influenza and pneumonia (J09-J18)|2,745|1.3|14.5
+Essential hypertension and hypertensive renal disease (I10,I12,I15)|1,990|1.0|10.5
+Human immunodeficiency virus (HIV) disease (B20-B24)|1,369|0.7|7.2
+Aortic aneurysm and dissection (I71)|934|0.5|4.9
+... All other causes (Residual)|28,926|14.0|152.6
+$All races, male, 65-74 years$
+... All causes|257,898|100.0|2,186.0
+Malignant neoplasms (C00-C97)|85,669|33.2|726.2
+Diseases of heart (I00-I09,I11,I13,I20-I51)|62,634|24.3|530.9
+Chronic lower respiratory diseases (J40-J47)|17,925|7.0|151.9
+Cerebrovascular diseases (I60-I69)|10,033|3.9|85.0
+Diabetes mellitus (E10-E14)|9,857|3.8|83.6
+Accidents (unintentional injuries) (V01-X59,Y85-Y86)|7,014|2.7|59.5
+Chronic liver disease and cirrhosis (K70,K73-K74)|4,531|1.8|38.4
+Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)|4,469|1.7|37.9
+Influenza and pneumonia (J09-J18)|4,131|1.6|35.0
+Septicemia (A40-A41)|4,002|1.6|33.9
+Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)|3,072|1.2|26.0
+Essential hypertension and hypertensive renal disease (I10,I12,I15)|2,359|0.9|20.0
+Parkinson's disease (G20-G21)|2,160|0.8|18.3
+Alzheimer's disease (G30)|1,984|0.8|16.8
+In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48)|1,657|0.6|14.0
+... All other causes (Residual)|36,401|14.1|308.5
