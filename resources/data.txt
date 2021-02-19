@@ -16,7 +16,7 @@ Essential hypertension and hypertensive renal disease (I10,I12,I15)|30,770|1.2|9
 Parkinson's disease (G20-G21)|25,196|1.0|8.0
 Pneumonitis due to solids and liquids (J69)|18,579|0.7|5.9
 ... All other causes (Residual)|537,554|20.7|170.0
-$All races, both sexes, 1-4 years$
+$1-4$
 ... All causes|4,068|100.0|25.5
 Accidents (unintentional injuries) (V01-X59,Y85-Y86)|1,316|32.4|8.3
 Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)|476|11.7|3.0
@@ -34,7 +34,7 @@ Anemias (D50-D64)|20|0.5|0.1
 Complications of medical and surgical care (Y40-Y84,Y88)|15|0.4|*
 Acute bronchitis and bronchiolitis (J20-J21)|14|0.3|*
 ... All other causes (Residual)|1,021|25.1|6.4
-$All races, both sexes, 5-14 years$
+$5-14$
 ... All causes|5,340|100.0|13.0
 Accidents (unintentional injuries) (V01-X59,Y85-Y86)|1,521|28.5|3.7
 Malignant neoplasms (C00-C97)|895|16.8|2.2
@@ -52,7 +52,7 @@ Complications of medical and surgical care (Y40-Y84,Y88)|26|0.5|0.1
 Diabetes mellitus (E10-E14)|24|0.4|0.1
 Anemias (D50-D64)|17|0.3|*
 ... All other causes (Residual)|1,147|21.5|2.8
-$All races, both sexes, 15-24 years$
+$15-24$
 ... All causes|28,486|100.0|64.8
 Accidents (unintentional injuries) (V01-X59,Y85-Y86)|11,619|40.8|26.4
 Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)|4,878|17.1|11.1
@@ -70,7 +70,7 @@ Human immunodeficiency virus (HIV) disease (B20-B24)|109|0.4|0.2
 Legal intervention (Y35,Y89.0)|99|0.3|0.2
 Anemias (D50-D64)|93|0.3|0.2
 ... All other causes (Residual)|3,546|12.4|8.1
-$All races, both sexes, 25-34 years$
+$25-34$
 ... All causes|45,463|100.0|106.1
 Accidents (unintentional injuries) (V01-X59,Y85-Y86)|16,209|35.7|37.8
 Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)|6,348|14.0|14.8
@@ -88,7 +88,7 @@ Septicemia (A40-A41)|333|0.7|0.8
 Chronic lower respiratory diseases (J40-J47)|291|0.6|0.7
 Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)|266|0.6|0.6
 ... All other causes (Residual)|7,037|15.5|16.4
-$All races, both sexes, 35-44 years$
+$35-44$
 ... All causes|69,573|100.0|172.0
 Accidents (unintentional injuries) (V01-X59,Y85-Y86)|15,354|22.1|38.0
 Malignant neoplasms (C00-C97)|11,349|16.3|28.1
@@ -106,7 +106,7 @@ Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)|627|0.9|1.
 Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)|441|0.6|1.1
 Essential hypertension and hypertensive renal disease (I10,I12,I15)|409|0.6|1.0
 ... All other causes (Residual)|12,083|17.4|29.9
-$All races, both sexes, 45-54 years$
+$45-54$
 ... All causes|177,724|100.0|406.1
 Malignant neoplasms (C00-C97)|46,185|26.0|105.5
 Diseases of heart (I00-I09,I11,I13,I20-I51)|35,167|19.8|80.3
@@ -124,7 +124,7 @@ Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)|1,989|1.1|4.5
 Viral hepatitis (B15-B19)|1,911|1.1|4.4
 Essential hypertension and hypertensive renal disease (I10,I12,I15)|1,513|0.9|3.5
 ... All other causes (Residual)|28,172|15.9|64.4
-$All races, both sexes, 55-64 years$
+$55-64$
 ... All causes|338,127|100.0|860.0
 Malignant neoplasms (C00-C97)|113,324|33.5|288.2
 Diseases of heart (I00-I09,I11,I13,I20-I51)|72,568|21.5|184.6
@@ -142,7 +142,7 @@ Essential hypertension and hypertensive renal disease (I10,I12,I15)|3,137|0.9|8.
 Human immunodeficiency virus (HIV) disease (B20-B24)|1,820|0.5|4.6
 In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48)|1,502|0.4|3.8
 ... All other causes (Residual)|50,259|14.9|127.8
-$All races, both sexes, 65-74 years$
+$65-74$
 ... All causes|454,429|100.0|1,802.1
 Malignant neoplasms (C00-C97)|155,552|34.2|616.9
 Diseases of heart (I00-I09,I11,I13,I20-I51)|98,432|21.7|390.3
@@ -160,7 +160,7 @@ Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)|3,794|0.8|15.0
 Parkinson's disease (G20-G21)|3,215|0.7|12.7
 In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48)|2,773|0.6|11.0
 ... All other causes (Residual)|68,429|15.1|271.4
-$All races, both sexes, 75-84 years$
+$75-84$
 ... All causes|625,013|100.0|4,648.1
 Malignant neoplasms (C00-C97)|153,214|24.5|1,139.4
 Diseases of heart (I00-I09,I11,I13,I20-I51)|147,255|23.6|1,095.1
@@ -178,7 +178,7 @@ Pneumonitis due to solids and liquids (J69)|4,933|0.8|36.7
 In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48)|4,554|0.7|33.9
 Chronic liver disease and cirrhosis (K70,K73-K74)|4,014|0.6|29.9
 ... All other causes (Residual)|113,143|18.1|841.4
-$All races, both sexes, 85 years and over$
+$over 85$
 ... All causes|825,198|100.0|13,660.4
 Diseases of heart (I00-I09,I11,I13,I20-I51)|242,469|29.4|4,013.9
 Malignant neoplasms (C00-C97)|98,792|12.0|1,635.4

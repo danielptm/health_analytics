@@ -1,6 +1,7 @@
 # import matplotlib.pyplot as plt
 from typing import List
 import matplotlib.pyplot as plt
+import numpy as np
 
 class Analyze:
     def readfile(self):
@@ -71,26 +72,33 @@ class Analyze:
             for ref in refined:
                 for obj in ref['outcomes']:
                     if obj[0] == outcome:
-                        outcomeObjects[outcome]["ages"].append({"age": ref["age"], "rate": obj[3]})
+                        outcomeObjects[outcome]["ages"].append({"age": ref["age"], "rate": float(obj[2])})
         return outcomeObjects
 
     # https://matplotlib.org/stable/tutorials/introductory/pyplot.html
     # plot get_outcomes_with_age here
     def plot_subs(self, objects):
-        outcomes = self.get_distinct_outcomes(objects)
-        refined = objects[1:11]
-        outcomes_with_age = self.get_outcomes_with_age(refined)
+        outcomes_with_age = self.get_outcomes_with_age(objects)
 
         for key, value in outcomes_with_age.items():
-            plt.figure()
-            plt.title = key
+            plt.figure(figsize=(9, 6))
+            plt.suptitle(key)
+            plt.ylabel('Y-axis')
+
+
+            # plt.gca().invert_yaxis()
             names = []
             values = []
+            # plt.ylim(25)
+            # /Users/danieltuttle/Documents/school/GeorgiaTech/courses/intro_to_health_info/projects/module2/project2
             for ref in value["ages"]:
                 names.append(ref["age"])
                 values.append(ref["rate"])
-                plt.bar(names, values)
-        plt.show()
+
+            plt.bar(names, values)
+            plt.savefig('/Users/danieltuttle/Documents/school/GeorgiaTech/courses/intro_to_health_info/projects/module2/project2/images/' + key + '.png')
+
+        # plt.show()
 
 
 
