@@ -14,3 +14,11 @@ class Ex3Test(unittest.TestCase):
         ex.run_regression()
         # x, y = load_iris(return_X_y = True)
         # print(x)
+
+    def test_calculate(self):
+        ex = Ex3()
+        ex.calculate_stuff()
+
+    def test_show_table(self):
+        ex = Ex3()
+        ex.show_table()
